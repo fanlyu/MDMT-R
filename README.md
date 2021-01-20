@@ -1,4 +1,4 @@
 # MDMT-R
-Implementation of AAAI paper, 'Multi-domain Multi-task Rehearsal for Lifelong Learning'.
+Implementation of AAAI-21 paper, 'Multi-domain Multi-task Rehearsal for Lifelong Learning' [Paper](https://arxiv.org/pdf/2012.07236.pdf).
 
 The code will be available soon.
